@@ -25,7 +25,7 @@ Review the research paper to understand the methodology.
 Explore the /Code folder for the implementation of GMM, PSO, and SDM algorithms.
 Data samples in /Data help you to run and test the code.
 Refer to inline comments and documentation within scripts for guidance on usage.
-About the Authors
+About the Authors:
 Debani (debani@iiit-bh.ac.in)
 Subham Kumar Bisoyi (b323044@iiit-bh.ac.in)
 Animesh Sharma (b323007@iiit-bh.ac.in)
