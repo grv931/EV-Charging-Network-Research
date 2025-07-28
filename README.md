@@ -1,38 +1,59 @@
+# EV-Charging-Network-Research
 
-EV-Charging-Network-Research
-Research paper on strategic EV charging station placement using GMM, PSO, and SDM.
+## Enhancing Urban EV Charging Networks: A Case Study of Bhubaneswar
 
-Enhancing Urban EV Charging Networks: A Case Study of Bhubaneswar
 This repository contains the research paper and related materials focused on strategically optimizing the placement of Electric Vehicle (EV) charging stations in Bhubaneswar, Odisha.
 
-Overview
+---
+
+### Overview
+
 With the increasing adoption of electric vehicles in Bhubaneswar, there is a growing need for a well-distributed and efficient EV charging infrastructure. This research integrates geospatial analytics and machine learning with advanced optimization techniques to propose scalable charging station locations that meet the city’s energy and transportation demands.
 
-Key methodologies include:
+---
 
-Geospatial Analysis: Using QGIS for detailed mapping and urban spatial data visualization.
-Demand Clustering: Applying Gaussian Mixture Models (GMM) to identify high-demand regions for charging stations based on various spatial and behavioral data.
-Optimization Algorithms: Utilizing Particle Swarm Optimization (PSO) and the Shortest Distance Method (SDM) for optimal site selection considering factors like grid proximity, regional coverage, and user accessibility.
-Repository Contents
-Research_Paper.pdf – Final version of the research paper detailing the entire methodology and findings.
-Code/ – Scripts and notebooks implementing clustering (GMM), optimization (PSO), and shortest distance calculations (SDM) (if applicable).
-Data/ – Sample datasets used for modeling and analysis (if applicable).
-Presentation/ – Slides summarizing the research for easy communication and teaching (optional).
-How to Use
+### Key Methodologies
+
+* **Geospatial Analysis**: Using QGIS for detailed mapping and urban spatial data visualization.
+* **Demand Clustering**: Applying Gaussian Mixture Models (GMM) to identify high-demand regions for charging stations based on various spatial and behavioral data.
+* **Optimization Algorithms**: Utilizing Particle Swarm Optimization (PSO) and the Shortest Distance Method (SDM) for optimal site selection considering factors like grid proximity, regional coverage, and user accessibility.
+
+---
+
+### Repository Contents
+
+* `Research_Paper.pdf` – Final version of the research paper detailing the entire methodology and findings.
+* `Code/` – Scripts and notebooks implementing clustering (GMM), optimization (PSO), and shortest distance calculations (SDM) (if applicable).
+* `Data/` – Sample datasets used for modeling and analysis (if applicable).
+* `Presentation/` – Slides summarizing the research for easy communication and teaching (optional).
+
+---
+
+### How to Use
+
 If code and data are included:
 
-Review the research paper to understand the methodology.
-Explore the /Code folder for the implementation of GMM, PSO, and SDM algorithms.
-Data samples in /Data help you to run and test the code.
-Refer to inline comments and documentation within scripts for guidance on usage.
-About the Authors:
-Debani (debani@iiit-bh.ac.in)
-Subham Kumar Bisoyi (b323044@iiit-bh.ac.in)
-Animesh Sharma (b323007@iiit-bh.ac.in)
-Kumar Gaurav (b323018@iiit-bh.ac.in)
+1.  Review the research paper to understand the methodology.
+2.  Explore the `/Code` folder for the implementation of GMM, PSO, and SDM algorithms.
+3.  Data samples in `/Data` help you to run and test the code.
+4.  Refer to inline comments and documentation within scripts for guidance on usage.
+
+---
+
+### About the Authors
+
+* **Debani** (debani@iiit-bh.ac.in)
+* **Kumar Gaurav** (b323018@iiit-bh.ac.in)
+* **Subham Kumar Bisoyi** (b323044@iiit-bh.ac.in)
+* **Animesh Sharma** (b323007@iiit-bh.ac.in)
+
+
 All co-authors are B.Tech students in Electrical and Electronics Engineering from IIIT Bhubaneswar.
 
-Contact
+---
+
+### Contact
+
 For questions or collaboration, feel free to reach out via email.
 
 This research contributes to sustainable urban planning for EV infrastructure and demonstrates the application of advanced analytics and optimization in real-world scenarios.
